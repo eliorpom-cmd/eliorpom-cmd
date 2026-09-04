@@ -12,24 +12,24 @@ I learn by building: every project here started as something I needed and didn�
 
 I work alone on my own apps, and inside a team on [Radiance](https://radiancewallpapers.com). The two require completely different things. I like both.
 
-<img src="assets/pill-swift.svg" height="30" align="middle" alt="Swift"> <img src="assets/pill-swiftui.svg" height="30" align="middle" alt="SwiftUI"> <img src="assets/pill-appkit.svg" height="30" align="middle" alt="AppKit"> <img src="assets/pill-astro.svg" height="30" align="middle" alt="Astro"> <img src="assets/pill-nextjs.svg" height="30" align="middle" alt="Next.js"> <img src="assets/pill-typescript.svg" height="30" align="middle" alt="TypeScript">
+<img src="assets/pill-swift.svg" height="30" alt="Swift"> <img src="assets/pill-swiftui.svg" height="30" alt="SwiftUI"> <img src="assets/pill-appkit.svg" height="30" alt="AppKit"> <img src="assets/pill-astro.svg" height="30" alt="Astro"> <img src="assets/pill-nextjs.svg" height="30" alt="Next.js"> <img src="assets/pill-typescript.svg" height="30" alt="TypeScript">
 
 #### Shipped
 
 |  |
 | :--- |
-| <img src="assets/to-be-downloaded.png" width="56" height="44" align="left" alt=""> **[To Be Downloaded](https://tbd.yt)**<br>The macOS YouTube downloader that just works.<br><img src="assets/pill-swift.svg" height="22" align="middle" alt="Swift"> <img src="assets/pill-swiftui.svg" height="22" align="middle" alt="SwiftUI"> <i>500 downloads in the first 24 hours · [source](https://github.com/eliorpom-cmd/to-be-downloaded)</i> |
-| <img src="assets/radiance-wallpapers.png" width="56" height="44" align="left" alt=""> **[Radiance Wallpapers](https://radiancewallpapers.com)**<br>I reverse-engineered their iOS app to build the webapp. That’s how I joined the team.<br><img src="assets/pill-nextjs.svg" height="22" align="middle" alt="Next.js"> <i>with [@Radiance-Team](https://github.com/Radiance-Team)</i> |
-| <img src="assets/noaislop-xyz.png" width="56" height="44" align="left" alt=""> **[noaislop.xyz](https://noaislop.xyz)**<br>A page to send to someone who published AI slop.<br><img src="assets/pill-astro.svg" height="22" align="middle" alt="Astro"> <i>[source](https://github.com/eliorpom-cmd/noaislop.xyz)</i> |
-| <img src="assets/print-on-my-desk.svg" width="56" height="44" align="left" alt=""> **[Print on my desk](https://github.com/eliorpom-cmd/print-on-my-desk)**<br>A thermal printer on my desk, with a webapp in front of it. Send someone a link and what they write comes out on paper, on my desk.<br><img src="assets/pill-node.svg" height="22" align="middle" alt="Node"> <i>open source</i> |
-| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **[claude-bounce](https://github.com/eliorpom-cmd/claude-bounce)**<br>Bounces your editor’s Dock icon when Claude Code finishes a turn.<br><img src="assets/pill-swift.svg" height="22" align="middle" alt="Swift"> <i>macOS · open source</i> |
+| <img src="assets/to-be-downloaded.png" width="56" height="44" align="left" alt=""> **[To Be Downloaded](https://tbd.yt)**<br>The macOS YouTube downloader that just works.<br><i>500 downloads in the first 24 hours · [source](https://github.com/eliorpom-cmd/to-be-downloaded)</i><br><img src="assets/pill-swift.svg" height="22" alt="Swift"> <img src="assets/pill-swiftui.svg" height="22" alt="SwiftUI"> |
+| <img src="assets/radiance-wallpapers.png" width="56" height="44" align="left" alt=""> **[Radiance Wallpapers](https://radiancewallpapers.com)**<br>I reverse-engineered their iOS app to build the webapp. That’s how I joined the team.<br><i>with [@Radiance-Team](https://github.com/Radiance-Team)</i><br><img src="assets/pill-nextjs.svg" height="22" alt="Next.js"> |
+| <img src="assets/noaislop-xyz.png" width="56" height="44" align="left" alt=""> **[noaislop.xyz](https://noaislop.xyz)**<br>A page to send to someone who published AI slop.<br><i>[source](https://github.com/eliorpom-cmd/noaislop.xyz)</i><br><img src="assets/pill-astro.svg" height="22" alt="Astro"> |
+| <img src="assets/print-on-my-desk.svg" width="56" height="44" align="left" alt=""> **[Print on my desk](https://github.com/eliorpom-cmd/print-on-my-desk)**<br>A thermal printer on my desk, with a webapp in front of it. Send someone a link and what they write comes out on paper, on my desk.<br><i>open source</i><br><img src="assets/pill-node.svg" height="22" alt="Node"> |
+| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **[claude-bounce](https://github.com/eliorpom-cmd/claude-bounce)**<br>Bounces your editor’s Dock icon when Claude Code finishes a turn.<br><i>macOS · open source</i><br><img src="assets/pill-swift.svg" height="22" alt="Swift"> |
 
 #### In progress
 
 |  |
 | :--- |
-| <img src="assets/fovea.png" width="56" height="44" align="left" alt=""> **[Fovea](https://fovea.byelior.dev)**<br>A lightweight WYSIWYG Markdown editor: you see the result while you write it. No code view, no preview pane.<br><img src="assets/pill-swift.svg" height="22" align="middle" alt="Swift"> <img src="assets/pill-textkit.svg" height="22" align="middle" alt="TextKit"> <i>macOS · [follow the build](https://www.threads.net/@mavie.log)</i> |
-| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **FreePark**<br>Find free street parking around you, from OpenStreetMap data.<br><img src="assets/pill-swift.svg" height="22" align="middle" alt="Swift"> <img src="assets/pill-mapkit.svg" height="22" align="middle" alt="MapKit"> <i>iOS · almost done</i> |
+| <img src="assets/fovea.png" width="56" height="44" align="left" alt=""> **[Fovea](https://fovea.byelior.dev)**<br>A lightweight WYSIWYG Markdown editor: you see the result while you write it. No code view, no preview pane.<br><i>macOS · [follow the build](https://www.threads.net/@mavie.log)</i><br><img src="assets/pill-swift.svg" height="22" alt="Swift"> <img src="assets/pill-textkit.svg" height="22" alt="TextKit"> |
+| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **FreePark**<br>Find free street parking around you, from OpenStreetMap data.<br><i>iOS · almost done</i><br><img src="assets/pill-swift.svg" height="22" alt="Swift"> <img src="assets/pill-mapkit.svg" height="22" alt="MapKit"> |
 
 #### Also
 
