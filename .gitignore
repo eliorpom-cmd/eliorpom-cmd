@@ -1,0 +1,9 @@
+.DS_Store
+
+# The three directions the published README was mixed from, kept to hand
+# without publishing them on the profile.
+variants/
+assets/banner.svg
+
+# Local qlmanage renders used while designing the assets.
+*.svg.png
