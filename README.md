@@ -18,18 +18,18 @@ I work alone on my own apps, and inside a team on [Radiance](https://radiancewal
 
 |  |
 | :--- |
-| <img src="assets/to-be-downloaded.png" width="56" height="44" align="left" alt=""> **[To Be Downloaded](https://tbd.yt)**<br>The macOS YouTube downloader that just works.<br><i>500 downloads in the first 24 hours · [source](https://github.com/eliorpom-cmd/to-be-downloaded)</i> |
-| <img src="assets/radiance-wallpapers.png" width="56" height="44" align="left" alt=""> **[Radiance Wallpapers](https://radiancewallpapers.com)**<br>I reverse-engineered their iOS app to build the webapp. That’s how I joined the team.<br><i>with [@Radiance-Team](https://github.com/Radiance-Team)</i> |
-| <img src="assets/noaislop-xyz.png" width="56" height="44" align="left" alt=""> **[noaislop.xyz](https://noaislop.xyz)**<br>A page to send to someone who published AI slop.<br><i>[source](https://github.com/eliorpom-cmd/noaislop.xyz)</i> |
-| <img src="assets/print-on-my-desk.svg" width="56" height="44" align="left" alt=""> **[Print on my desk](https://github.com/eliorpom-cmd/print-on-my-desk)**<br>A thermal printer on my desk, with a webapp in front of it. Send someone a link and what they write comes out on paper, on my desk.<br><i>open source</i> |
-| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **[claude-bounce](https://github.com/eliorpom-cmd/claude-bounce)**<br>Bounces your editor’s Dock icon when Claude Code finishes a turn.<br><i>macOS · open source</i> |
+| <img src="assets/to-be-downloaded.png" width="56" height="44" align="left" alt=""> **[To Be Downloaded](https://tbd.yt)**<br>The macOS YouTube downloader that just works. |
+| <img src="assets/radiance-wallpapers.png" width="56" height="44" align="left" alt=""> **[Radiance Wallpapers](https://radiancewallpapers.com)**<br>I reverse-engineered their iOS app to build the webapp. That’s how I joined the team. |
+| <img src="assets/noaislop-xyz.png" width="56" height="44" align="left" alt=""> **[noaislop.xyz](https://noaislop.xyz)**<br>A page to send to someone who published AI slop. |
+| <img src="assets/print-on-my-desk.svg" width="56" height="44" align="left" alt=""> **[Print on my desk](https://github.com/eliorpom-cmd/print-on-my-desk)**<br>A thermal printer on my desk, with a webapp in front of it. Send someone a link and what they write comes out on paper, on my desk. |
+| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **[claude-bounce](https://github.com/eliorpom-cmd/claude-bounce)**<br>Bounces your editor’s Dock icon when Claude Code finishes a turn. |
 
 #### In progress
 
 |  |
 | :--- |
-| <img src="assets/fovea.png" width="56" height="44" align="left" alt=""> **[Fovea](https://fovea.byelior.dev)**<br>A lightweight WYSIWYG Markdown editor: you see the result while you write it. No code view, no preview pane.<br><i>macOS · [follow the build](https://www.threads.net/@mavie.log)</i> |
-| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **FreePark**<br>Find free street parking around you, from OpenStreetMap data.<br><i>iOS · almost done</i> |
+| <img src="assets/fovea.png" width="56" height="44" align="left" alt=""> **[Fovea](https://fovea.byelior.dev)**<br>A lightweight WYSIWYG Markdown editor: you see the result while you write it. No code view, no preview pane. |
+| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **FreePark**<br>Find free street parking around you, from OpenStreetMap data. |
 
 #### Also
 
