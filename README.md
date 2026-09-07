@@ -29,7 +29,7 @@ I work alone on my own apps, and inside a team on [Radiance](https://github.com/
 |  |
 | :--- |
 | <img src="assets/fovea.png" width="56" height="44" align="left" alt=""> **[Fovea](https://fovea.byelior.dev)**<br>A lightweight WYSIWYG Markdown editor: you see the result while you write it. No code view, no preview pane. |
-| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **FreePark**<br>Find free street parking around you, from OpenStreetMap data. |
+| <img src="assets/freepark.png" width="56" height="44" align="left" alt=""> **FreePark**<br>Find free street parking around you, from OpenStreetMap data. |
 
 #### Also
 
