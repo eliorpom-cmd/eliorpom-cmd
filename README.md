@@ -3,7 +3,7 @@ $ whoami
 Elior · 18 · French Alps · byelior.dev
 
 $ ls ~/now
-fovea/      freepark/      radiance/      client-sites/
+arsene/      fovea/      radiance/      client-sites/
 ```
 
 I design, build and ship software. Native apps mostly, web when it’s the right tool.
@@ -29,6 +29,7 @@ I work alone on my own apps, and inside a team on [Radiance](https://github.com/
 
 |  |
 | :--- |
+| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **Arsène**<br>A Mac app and a browser extension that pseudonymise sensitive documents before they reach an AI chat. |
 | <img src="assets/fovea.png" width="56" height="44" align="left" alt=""> **[Fovea](https://fovea.byelior.dev)**<br>A lightweight WYSIWYG Markdown editor: you see the result while you write it. No code view, no preview pane. |
 
 #### Also
