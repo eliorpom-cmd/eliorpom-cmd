@@ -17,4 +17,4 @@ Le `README.md` de ce dépôt s'affiche sur https://github.com/eliorpom-cmd. Tout
 `gh api -X POST /markdown -f text="$(cat README.md)" -f mode=gfm` puis capture en clair et en sombre (fond `#0d1117`) : une icône mal dessinée se voit tout de suite (la première icône App Store ressemblait à une croix).
 
 ## État
-- 10/10/2026 : GRESIL ajouté (4e), titres cliquables + icônes source / App Store. Rien en attente.
+- 10/10/2026 : GRESIL ajouté (4e), titres cliquables + icônes source / App Store. Phrase de GRESIL (choix d'Elior : commencer par ce que c'est) : « A weather model built for Grenoble, more accurate there than the 16 leading models it combines. » — identique sur byelior.dev (`src/data/projects.ts`). Icône `assets/gresil.svg` = trame de points bleue (icône du site météo, `Accurate Meteo/prive/concepts/favicon/v5/t5-grosse-trame.svg`). Rien en attente.
