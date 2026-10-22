@@ -3,7 +3,7 @@ $ whoami
 Elior · 18 · French Alps · byelior.dev
 
 $ ls ~/now
-arsene/      fovea/      radiance/      client-sites/
+arsene/      drawn-qr/    radiance/    client-sites/
 ```
 
 I design, build and ship software. Native apps mostly, web when it’s the right tool.
@@ -21,7 +21,7 @@ I work alone on my own apps, and inside a team on [Radiance](https://github.com/
 | <img src="assets/freepark.png" width="56" height="44" align="left" alt=""> **[Freepark](https://freeparkapp.fr)** <a href="https://apps.apple.com/fr/app/freepark/id6813134751"><img src="assets/app-store.svg" width="14" height="14" alt="App Store"></a><br>Find free parking around you, from OpenStreetMap data. |
 | <img src="assets/to-be-downloaded.png" width="56" height="44" align="left" alt=""> **[To Be Downloaded](https://tbd.yt)** <a href="https://github.com/eliorpom-cmd/to-be-downloaded"><img src="assets/source.svg" width="14" height="14" alt="Source code"></a><br>The macOS YouTube downloader that just works. |
 | <img src="assets/radiance-wallpapers.png" width="56" height="44" align="left" alt=""> **[Radiance Wallpapers](https://app.radiancewallpapers.com)**<br>I reverse-engineered their iOS app to build the webapp. That’s how I joined the team. |
-| <img src="assets/gresil.svg" width="56" height="44" align="left" alt=""> **[GRESIL](https://meteo.byelior.com)** <a href="https://github.com/eliorpom-cmd/accurate-meteo"><img src="assets/source.svg" width="14" height="14" alt="Source code"></a><br>A weather model built for Grenoble, more accurate there than the 16 leading models it combines. Updated every 15 minutes, free API. |
+| <img src="assets/gresil.svg" width="56" height="44" align="left" alt=""> **[GRESIL](https://meteo.byelior.com)** <a href="https://github.com/eliorpom-cmd/accurate-meteo"><img src="assets/source.svg" width="14" height="14" alt="Source code"></a><br>The most accurate weather forecast for your city, once you train it there. [Train it for your city](https://github.com/eliorpom-cmd/accurate-meteo#use-it-for-another-city). |
 | <img src="assets/noaislop-xyz.png" width="56" height="44" align="left" alt=""> **[noaislop.xyz](https://noaislop.xyz)** <a href="https://github.com/eliorpom-cmd/noaislop.xyz"><img src="assets/source.svg" width="14" height="14" alt="Source code"></a><br>A page to send to someone who published AI slop. |
 | <img src="assets/print-on-my-desk.svg" width="56" height="44" align="left" alt=""> **[Print on my desk](https://printomatic.byelior.dev)** <a href="https://github.com/eliorpom-cmd/print-on-my-desk"><img src="assets/source.svg" width="14" height="14" alt="Source code"></a><br>A thermal printer on my desk, with a webapp in front of it. Send someone a link and what they write comes out on paper, on my desk. |
 | <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **[claude-bounce](https://github.com/eliorpom-cmd/claude-bounce)** <a href="https://github.com/eliorpom-cmd/claude-bounce"><img src="assets/source.svg" width="14" height="14" alt="Source code"></a><br>Bounces your editor’s Dock icon when Claude Code finishes a turn. |
@@ -30,8 +30,8 @@ I work alone on my own apps, and inside a team on [Radiance](https://github.com/
 
 |  |
 | :--- |
-| <img src="assets/arsene.png" width="56" height="44" align="left" alt=""> **Arsène**<br>A Mac app and a browser extension that pseudonymise sensitive documents before they reach an AI chat. |
-| <img src="assets/fovea.png" width="56" height="44" align="left" alt=""> **[Fovea](https://fovea.byelior.dev)**<br>A lightweight WYSIWYG Markdown editor: you see the result while you write it. No code view, no preview pane. |
+| <img src="assets/arsene.png" width="56" height="44" align="left" alt=""> **Arsène**<br>A Chrome extension that pseudonymises French documents before they reach an AI chat. |
+| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **Hand-drawn QR codes**<br>QR codes that look like hand-drawn doodles and still scan. |
 
 #### Also
 
