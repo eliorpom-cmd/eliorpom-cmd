@@ -3,7 +3,7 @@ $ whoami
 Elior · 18 · French Alps · byelior.dev
 
 $ ls ~/now
-arsene/      drawn-qr/    radiance/    client-sites/
+drawn-qr/    gresil/      tbd-1.2/     radiance/
 ```
 
 I design, build and ship software. Native apps mostly, web when it’s the right tool.
