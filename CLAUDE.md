@@ -11,7 +11,7 @@ Le `README.md` de ce dépôt s'affiche sur https://github.com/eliorpom-cmd. Tout
 - Le **titre** mène au site du projet, sinon à son dépôt. Pas de lien si rien de public (Arsène).
 - À droite du titre, petites icônes grises 14 px (`#8b949e`, lisible en clair et en sombre) : `assets/source.svg` (logo GitHub → dépôt) **seulement si le dépôt est public**, `assets/app-store.svg` (→ fiche App Store). Pas d'icône site web (le titre fait ce travail) ; ne pas écrire « open source » dans le texte.
 - Ordre de Shipped : Freepark, To Be Downloaded, Radiance Wallpapers, GRESIL, noaislop.xyz, Print on my desk (titre → printomatic.byelior.dev), claude-bounce.
-- Dépôts publics au 10/10/2026 : accurate-meteo, to-be-downloaded, noaislop.xyz, print-on-my-desk, claude-bounce (+ cronica, bento.cat, obsidian-library-linker, non listés). Freepark, Radiance : pas de dépôt public. Arsène : `eliorpom-cmd/arsene` public depuis le 22/10/2026 (Shipped, avec l'icône source).
+- Dépôts publics au 10/10/2026 : accurate-meteo, to-be-downloaded, noaislop.xyz, print-on-my-desk, claude-bounce (+ cronica, bento.cat, obsidian-library-linker, non listés). Freepark, Radiance : pas de dépôt public. Arsène : dépôt repassé en privé le 30/10/2026, retiré du profil.
 
 ## Vérifier le rendu avant de pousser
 `gh api -X POST /markdown -f text="$(cat README.md)" -f mode=gfm` puis capture en clair et en sombre (fond `#0d1117`) : une icône mal dessinée se voit tout de suite (la première icône App Store ressemblait à une croix).
