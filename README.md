@@ -12,6 +12,10 @@ I learn by building: every project here started as something I needed and didnâ€
 
 I work alone on my own apps, and inside a team on [Radiance](https://github.com/Radiance-Team). The two require completely different things, and I like both.
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from the day's activity" />
+</p>
+
 <img src="assets/pill-swift.svg" height="30" alt="Swift"> <img src="assets/pill-swiftui.svg" height="30" alt="SwiftUI"> <img src="assets/pill-appkit.svg" height="30" alt="AppKit"> <img src="assets/pill-astro.svg" height="30" alt="Astro"> <img src="assets/pill-nextjs.svg" height="30" alt="Next.js"> <img src="assets/pill-typescript.svg" height="30" alt="TypeScript">
 
 #### Shipped
