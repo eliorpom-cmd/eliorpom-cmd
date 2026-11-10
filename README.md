@@ -3,7 +3,7 @@ $ whoami
 Elior · 18 · French Alps · byelior.dev
 
 $ ls ~/now
-drawn-qr/    gresil/      tbd-1.2/     radiance/
+tbd-1.3.1/   freepark-1.3/   lgtm.md/   drawn-qr/   radiance/
 ```
 
 I design, build and ship software. Native apps mostly, web when it’s the right tool.
@@ -36,6 +36,7 @@ I work alone on my own apps, and inside a team on [Radiance](https://github.com/
 
 |  |
 | :--- |
+| <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **LGTM.md**<br>Animated pixel-art widgets for your GitHub profile, drawn every night from your real activity. In beta. |
 | <img src="assets/icon-placeholder.svg" width="56" height="44" align="left" alt=""> **Hand-drawn QR codes**<br>QR codes that look like hand-drawn doodles and still scan. |
 
 #### Also
